@@ -1,3 +1,4 @@
+author: ingy hany 231014596
 # Kabar - News App
 
 A Flutter news app 
